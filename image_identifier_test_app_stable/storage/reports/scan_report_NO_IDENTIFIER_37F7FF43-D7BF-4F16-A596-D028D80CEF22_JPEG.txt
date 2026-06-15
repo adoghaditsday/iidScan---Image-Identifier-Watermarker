@@ -1,0 +1,23 @@
+Image Identifier Test App 0.3.0-view-modes
+SCAN REPORT
+
+Status: No identifier detected
+Scanned Filename: 37F7FF43-D7BF-4F16-A596-D028D80CEF22.JPEG
+Scanned Path: E:\ALL NSFW\37F7FF43-D7BF-4F16-A596-D028D80CEF22.JPEG
+
+Detected Identifier: NO_IDENTIFIER
+Detected Payload Created At: 
+Detected Payload Signature Name: 
+Detected Payload Signature Note: 
+
+Local Database Match: No
+Original Filename: 
+Original Created At: 
+Original Marked Path: 
+Original Snapshot Path: 
+Original Report Path: 
+
+Scan Signature Name: tcw
+Scan Signature Note: 
+
+Report Generated At: 2026-06-11T06:00:06Z

@@ -1,0 +1,16 @@
+Image Identifier Test App 0.3.0-view-modes
+MARK REPORT
+
+Status: New identifier embedded
+Identifier: GSG3-IMG-6F92CE89165B36A0
+Created At: 2026-06-11T06:00:12Z
+Original Filename: 37F7FF43-D7BF-4F16-A596-D028D80CEF22.JPEG
+Original Path: E:\ALL NSFW\37F7FF43-D7BF-4F16-A596-D028D80CEF22.JPEG
+Marked Path: C:\Users\jhazz\Documents\Coding\image_identifier_test_app\storage\marked\37F7FF43-D7BF-4F16-A596-D028D80CEF22_GSG3-IMG-6F92CE89165B36A0.png
+Snapshot Path: C:\Users\jhazz\Documents\Coding\image_identifier_test_app\storage\snapshots\37F7FF43-D7BF-4F16-A596-D028D80CEF22_GSG3-IMG-6F92CE89165B36A0.jpg
+SHA-256 Original Hash: acfce02acfa0ba9068ab8a8aac3aaa13980a930c2e2ca3873b92e6d910595871
+
+Signature Name: tcw
+Signature Note: 
+
+Report Generated At: 2026-06-11T06:00:16Z
