@@ -1,5 +1,7 @@
 # Image Identifier Studio
 
+<img width="1024" height="1024" alt="iidScan_logo1" src="https://github.com/user-attachments/assets/93e30251-ffe9-4b47-a161-f67e0bd1d53b" />
+
 Local-only image identifier/watermark test project.
 
 This repository package contains two separately maintained builds:
